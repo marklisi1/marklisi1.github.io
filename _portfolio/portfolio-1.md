@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Emission Prediction with Variable Graph Structure"
+excerpt: "GNN algorithm to predict location, type, or quantity of emission based on geographic proximity to other sites"
 collection: portfolio
 ---
 
