@@ -8,4 +8,4 @@ This project was born out of inspiration from the [2021 Climate TRACE dataset.](
 [Read the whole paper and associated code on Github!](https://github.com/marklisi1/dynamic-edges-gcn)
 
 * Skills: Graph data, algorithm design, deep learning, data augmentation
-* Tools: PyTorch Geometric, Pandas/GeoPandas, Shapely, numpy
+* Tools: PyTorch Geometric, Pandas/GeoPandas, Shapely, NumPy

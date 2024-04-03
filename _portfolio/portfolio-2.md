@@ -9,4 +9,4 @@ In this project I implement a homemade version of U-Net to identify anomalous re
 [You can read the paper here!](https://github.com/marklisi1/ag-vision-segmentation/blob/main/CV_Final_Project.pdf)
 
 * Skills: Data processing, computer vision, deep learning, model optimization, CUDA/GPU programming
-* Tools: PyTorch, cuDNN, Pillow, numpy
+* Tools: PyTorch, cuDNN, Pillow, NumPy
