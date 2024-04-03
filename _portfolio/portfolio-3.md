@@ -10,5 +10,5 @@ I am not a finance person by trade, so the accuracy of these recommendations/the
 
 [You can scroll through the notebook here.](https://github.com/marklisi1/stockbot/blob/main/hw2.ipynb)
 
-* Skills: Data processing, computer vision, deep learning, model optimization, CUDA/GPU programming
+* Skills: Explainable AI, model design, quant/finance
 * Tools: XGBoost, yfinance, shap, Pandas, NumPy
