@@ -16,7 +16,19 @@ Former SWE @ U.S. Dept. of Veterans Affairs with a strong background in machine 
 Education
 ======
 * M.S. in Computer Science, Yale University, 2024 (expected)
-* B.S. in Computer Science, B.S. in Mathematics, Tulane University, 2021
+  * Relevant Coursework:
+    * Trustworthy Deep Learning
+    * Topics in Applied ML
+    * Natural Language Processing
+    * Computer Vision
+    * Deep Learning on Graph-Structured Data
+* B.S. in Computer Science, B.S. in Mathematics, Tulane University, 2021, summa cum laude
+  * Relevant Coursework:
+    * Data Science
+    * Algorithms
+    * Experimental Mathematics
+    * C++ for Scientists and Engineers
+    * Ordinary Differential Equations
 
 Work Experience
 ======
