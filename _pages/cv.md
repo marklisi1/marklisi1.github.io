@@ -9,55 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Former SWE @ U.S. Dept. of Veterans Affairs with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. Currently pursuing a master’s degree in computer science at Yale University and a summa cum laude graduate of Tulane University. 
+
 Education
 ======
 * M.S. in Computer Science, Yale University, 2024 (expected)
 * B.S. in Computer Science, B.S. in Mathematics, Tulane University, 2021
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Yale University, Course Manager (August 2022 - present)
+  * Lead a team of 20 TAs & responsible for ~150 students in Yale’s Introduction to Computer Science course (CS201).
+  * Wrote automated grading scripts using Yale’s Linux clusters, coordinated and hired TAs, developed novel curriculum material/exams, and acted as a reliable point of contact for students and TAs alike.
+  * Sharpened leadership skills and facilitated a comfortable and efficient work environment for students and instructors.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* U.S. Dept. of Veterans Affairs, Bioinformatics Software Engineer (August 2021 - July 2022)
+  * Worked both independently and on Agile teams of ~10 developers on Cancer Care Tracking System (CCTS), a production-scale database that tracks cancer symptoms of veterans and makes predictive conclusions.
+  * Routinely identified and resolved both visual front-end and logical/database back-end bugs using ASP and SQL respectively.
+  * Created an interactive web page using ASP and JavaScript/D3 to visualize the timeliness of care given to patients at VAs across the country.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Yale Center for Research Computing, Research Support Intern (June - August 2019)
+  * Wrote a Slurm command [seff-array](https://github.com/ycrc/seff-array) from scratch in Python to handle job arrays and display statistics about their efficiency in a histogram, enabling all users of Yale supercomputers to request memory more intelligently and saving system time/power for all users.
+  * Interfaced with Yale clusters using Python and Slurm to record hardware/partition information into a Pandas dataframe, then converted the data into an automatically updated Markdown table of cluster records.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Yale Center for Medical Informatics, VR Engineering Intern (June - August 2018)
+  * Wrote software in Unity and Blender to model molecules in VR for use in Yale medical research
+  * Created a VR environment for bioengineers to analyze small-molecule interaction in proteins
+  * Integrated project data with YCMI MySQL server using C#
+
   
-Talks
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages
+  * Python
+  * C/C++/C#
+  * Julia
+  * MATLAB
+  * SQL
+  * ASP/.VB
+  * Ruby
+* Libraries
+  * TensorFlow
+  * PyTorch
+  * OpenCV
+  * NLTK
+  * Pandas
+  * Numpy
+  * CUDA/cuDNN
+* Tools and Frameworks
+  * Git
+  * AWS
+  * Microsoft Azure
+  * Docker
+  * UNIX
+  * Slurm
+
