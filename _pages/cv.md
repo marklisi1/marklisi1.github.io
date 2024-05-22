@@ -11,17 +11,18 @@ redirect_from:
 
 Summary
 ======
-Former SWE @ U.S. Dept. of Veterans Affairs with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. Currently pursuing a master’s degree in computer science at Yale University and a summa cum laude graduate of Tulane University. 
+Former SWE @ U.S. Dept. of Veterans Affairs with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. M.S. in computer science at Yale University and a summa cum laude graduate of Tulane University. 
 
 Education
 ======
-* M.S. in Computer Science, Yale University, 2024 (expected)
+* M.S. in Computer Science, Yale University, 2024
   * Relevant Coursework:
     * Trustworthy Deep Learning
     * Topics in Applied ML
     * Natural Language Processing
     * Computer Vision
     * Deep Learning on Graph-Structured Data
+
 * B.S. in Computer Science, B.S. in Mathematics, Tulane University, 2021, summa cum laude
   * Relevant Coursework:
     * Data Science
@@ -32,7 +33,7 @@ Education
 
 Work Experience
 ======
-* Yale University, Course Manager (August 2022 - present)
+* Yale University, Course Manager (August 2022 - May 2024)
   * Lead a team of 20 TAs & responsible for ~150 students in Yale’s Introduction to Computer Science course (CS201).
   * Wrote automated grading scripts using Yale’s Linux clusters, coordinated and hired TAs, developed novel curriculum material/exams, and acted as a reliable point of contact for students and TAs alike.
   * Sharpened leadership skills and facilitated a comfortable and efficient work environment for students and instructors.
