@@ -11,4 +11,4 @@ Hello and welcome! My name is Mark and I'm passionate about harnessing the power
 
 [Take a look at some of the projects I've worked on recently!](https://marklisi1.github.io/portfolio/)
 
-I'm currently looking for a Data Scientist, ML Engineer, or SWE position where I can use my technical skills to make a tangible difference in the world. Please don't hesitate to reach out if you feel that I could be useful on your team.
+I'm currently working as a Data Scientist at [EVident Battery](https://batteryevidence.com/), a New Haven-based startup developing diagnostic tools for EVs powered by machine learning. Please feel free to reach out if you'd like to connect!
