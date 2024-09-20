@@ -11,7 +11,8 @@ redirect_from:
 
 Summary
 ======
-Former SWE @ U.S. Dept. of Veterans Affairs with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. M.S. in computer science at Yale University and a summa cum laude graduate of Tulane University. 
+Data Scientist at EVident Battery with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. M.S. in computer
+science at Yale University and a summa cum laude graduate of Tulane University.
 
 Education
 ======
@@ -33,6 +34,11 @@ Education
 
 Work Experience
 ======
+* EVident Battery, Data Scientist (July 2024 - present)
+  * Performed data ingestion of multi-dimensional signal data using modern machine learning libraries, carrying out exploratory data analysis and creating effective visualizations to communicate with non-technical investor audiences
+  * Fine-tuned and deployed state-of-the-art transformer models capable of diagnosing anomalies in EV battery packs with ~98% accuracy
+  * Independently organized the deployment of team software to AWS Elastic Beanstalk, demonstrating proficiency with cloud computing and web hosting tools
+
 * Yale University, Course Manager (August 2022 - May 2024)
   * Lead a team of 20 TAs & responsible for ~150 students in Yale’s Introduction to Computer Science course (CS201).
   * Wrote automated grading scripts using Yale’s Linux clusters, coordinated and hired TAs, developed novel curriculum material/exams, and acted as a reliable point of contact for students and TAs alike.
