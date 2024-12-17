@@ -35,9 +35,10 @@ Education
 Work Experience
 ======
 * EVident Battery, Data Scientist (July 2024 - present)
-  * Performed data ingestion of multi-dimensional signal data using modern machine learning libraries, carrying out exploratory data analysis and creating effective visualizations to communicate with non-technical investor audiences
+  * Wrangled multidimensional signal data using Python/Pandas/scikit-learn, creating models capable of price prediction and data quality assurance as the sole full-time engineer on the team
   * Fine-tuned and deployed state-of-the-art transformer models capable of diagnosing anomalies in EV battery packs with ~98% accuracy
-  * Independently organized the deployment of team software to AWS Elastic Beanstalk, demonstrating proficiency with cloud computing and web hosting tools
+  * Independently developed and deployed [web app](http://evidentbatterydata.com/) capable of price prediction, error detection, and estimation of useful lifespan through AWS, demonstrating proficiency with cloud computing and web hosting tools
+
 
 * Yale University, Course Manager (August 2022 - May 2024)
   * Lead a team of 20 TAs & responsible for ~150 students in Yale’s Introduction to Computer Science course (CS201).
