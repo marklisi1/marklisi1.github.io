@@ -12,7 +12,7 @@ redirect_from:
 Summary
 ======
 Data Scientist at EVident Battery with a strong background in machine learning, data science, and a passion for tackling practical challenges with AI. Equipped with 7 years of experience in Python and relevant libraries including Pandas, TensorFlow, and PyTorch, applying advanced deep learning techniques to solve real-world problems. M.S. in computer
-science at Yale University and a summa cum laude graduate of Tulane University.
+science from Yale University and a summa cum laude graduate of Tulane University.
 
 Education
 ======
